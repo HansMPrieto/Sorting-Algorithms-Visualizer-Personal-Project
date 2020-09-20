@@ -24,4 +24,4 @@ How to use:
 - Use the "Generate New Array" button to create a random array of the length being wished to be used.
 - Use the "Stop Visualization" button if you wish to stop the visualization while it is running. 
 - The other 9 buttons are the sorting algorithms that were implemented in this program. Use those to visualize the sorting process.
-- Note: Make sure to have pygame installed in order to run the module. 
+- Note: Make sure to have Pygame installed in order to run the module. 
