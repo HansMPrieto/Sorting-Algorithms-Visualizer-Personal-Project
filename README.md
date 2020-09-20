@@ -11,3 +11,5 @@ Sorting Algorithms Visualizer that implements the following sorting algorithms:
 - Odd-Even Sort
 - Cocktail Sort
 - Insertion Sort
+
+Note: Make sure to have Pygame installed to run the module. 
